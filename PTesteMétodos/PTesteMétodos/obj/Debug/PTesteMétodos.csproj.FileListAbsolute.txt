@@ -1,0 +1,15 @@
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\bin\Debug\PTesteMétodos.exe.config
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\bin\Debug\PTesteMétodos.exe
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\bin\Debug\PTesteMétodos.pdb
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.frmPrincipal.resources
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.exe
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.pdb
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.exe.config
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.frmExercicio2.resources
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.frmExercicio3.resources
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.frmExercicio4.resources
+C:\Users\Guilherme\source\repos\PTesteMétodos\PTesteMétodos\obj\Debug\PTesteMétodos.frmExercicio5.resources
