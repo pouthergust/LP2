@@ -1,0 +1,9 @@
+C:\Users\0030482523046\source\repos\atividade5\atividade5\obj\Debug\atividade5.csproj.AssemblyReference.cache
+C:\Users\0030482523046\source\repos\atividade5\atividade5\bin\Debug\atividade5.exe.config
+C:\Users\0030482523046\source\repos\atividade5\atividade5\bin\Debug\atividade5.exe
+C:\Users\0030482523046\source\repos\atividade5\atividade5\bin\Debug\atividade5.pdb
+C:\Users\0030482523046\source\repos\atividade5\atividade5\obj\Debug\atividade5.Properties.Resources.resources
+C:\Users\0030482523046\source\repos\atividade5\atividade5\obj\Debug\atividade5.csproj.GenerateResource.cache
+C:\Users\0030482523046\source\repos\atividade5\atividade5\obj\Debug\atividade5.csproj.CoreCompileInputs.cache
+C:\Users\0030482523046\source\repos\atividade5\atividade5\obj\Debug\atividade5.exe
+C:\Users\0030482523046\source\repos\atividade5\atividade5\obj\Debug\atividade5.pdb
